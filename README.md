@@ -1,7 +1,7 @@
-# GFX_Manager
+# GFX Manager
 
 ## Privacy Policy
-Last updated: October 1, 2024
+Last updated: October 10, 2024
 
 **This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the application.**
 
