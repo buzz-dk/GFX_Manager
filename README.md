@@ -1,7 +1,8 @@
 # GFX Manager
 
 ## Privacy Policy
-Last updated: October 10, 2024
+
+Last updated: February 23, 2026
 
 **This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the application.**
 
@@ -16,3 +17,5 @@ These data are accessed on your file system:
 - Text files (selected by the user)
 
 No other files are accessed.
+
+GFX Manager is available in the Microsoft app store in selected locations
